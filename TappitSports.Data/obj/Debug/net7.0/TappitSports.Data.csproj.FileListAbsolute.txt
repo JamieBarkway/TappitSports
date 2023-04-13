@@ -1,0 +1,12 @@
+C:\Dev\TappitSports\TappitSports.Data\bin\Debug\net7.0\TappitSports.Data.deps.json
+C:\Dev\TappitSports\TappitSports.Data\bin\Debug\net7.0\TappitSports.Data.dll
+C:\Dev\TappitSports\TappitSports.Data\bin\Debug\net7.0\TappitSports.Data.pdb
+C:\Dev\TappitSports\TappitSports.Data\obj\Debug\net7.0\TappitSports.Data.csproj.AssemblyReference.cache
+C:\Dev\TappitSports\TappitSports.Data\obj\Debug\net7.0\TappitSports.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\TappitSports\TappitSports.Data\obj\Debug\net7.0\TappitSports.Data.AssemblyInfoInputs.cache
+C:\Dev\TappitSports\TappitSports.Data\obj\Debug\net7.0\TappitSports.Data.AssemblyInfo.cs
+C:\Dev\TappitSports\TappitSports.Data\obj\Debug\net7.0\TappitSports.Data.csproj.CoreCompileInputs.cache
+C:\Dev\TappitSports\TappitSports.Data\obj\Debug\net7.0\TappitSports.Data.dll
+C:\Dev\TappitSports\TappitSports.Data\obj\Debug\net7.0\refint\TappitSports.Data.dll
+C:\Dev\TappitSports\TappitSports.Data\obj\Debug\net7.0\TappitSports.Data.pdb
+C:\Dev\TappitSports\TappitSports.Data\obj\Debug\net7.0\ref\TappitSports.Data.dll

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TappitSports</name>
+    </assembly>
+    <members>
+        <member name="M:TappitSports.Controllers.PeopleWithFavouriteSportsController.GetPeopleWithFavouriteSports">
+            <summary>
+            Returns a list of people along with their favourite sports
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:TappitSports.Controllers.PersonWithFavouriteSportsController.GetPersonWithFavouriteSport(System.Nullable{System.Int32},System.String)">
+            <summary>
+            Returns a person and their favourite sports based on the provided person Id OR last name
+            </summary>
+            <param name="personId">
+            <description>
+            The ID of the person you wish to retrieve. Will override last name if ID and last name do not match.
+            </description>
+            </param>
+            <param name="personLastName">
+            <description>
+            The last name of the person you wish to retrieve
+            </description>
+            </param>
+            <returns></returns>
+        </member>
+        <member name="M:TappitSports.Controllers.SportsWithFavouriteCountController.GetSportsWithFavouriteCount">
+            <summary>
+            Returns a list of sports and how many times they have been favourited
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:TappitSports.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:TappitSports.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TappitSports.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:TappitSports.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
