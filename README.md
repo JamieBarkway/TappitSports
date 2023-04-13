@@ -11,7 +11,7 @@ Once the API is running, it should automatically launch on http://localhost:5000
   - GET /sportswithfavouritecount - returns a list of sports and how many times they have been favorited.
   - GET /peoplewithfavouritesports - returns a list of people with their favourite sports, whether they are valid, enabled and authorised.
 
-Authentication is not required to access the API.
+Authentication is not required to access the API. You will need to alter the connection string in appsettings.json in order to point to a local version of the database provided.
 
 
 
